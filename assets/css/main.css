@@ -176,6 +176,11 @@ input, select, textarea {
 		padding: 1em 0 1em 2em;
 	}
 
+	#tech-header{
+		font-weight: bold;
+		font-size: 34px;
+	}
+
 /* Container */
 
 	.container {
@@ -318,7 +323,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 60%;
 		}
 
 		.row > .off-4 {
@@ -350,7 +355,7 @@ input, select, textarea {
 		}
 
 		.row > .col-8 {
-			width: 66.66667%;
+			width: 40%;
 		}
 
 		.row > .off-8 {
@@ -593,7 +598,7 @@ input, select, textarea {
 				}
 
 				.row > .col-8-wide {
-					width: 66.66667%;
+					width: 40%;
 				}
 
 				.row > .off-8-wide {
@@ -838,7 +843,7 @@ input, select, textarea {
 				}
 
 				.row > .col-8-normal {
-					width: 66.66667%;
+					width: 40%;
 				}
 
 				.row > .off-8-normal {
@@ -1083,7 +1088,7 @@ input, select, textarea {
 				}
 
 				.row > .col-8-narrow {
-					width: 66.66667%;
+					width: 40%;
 				}
 
 				.row > .off-8-narrow {
@@ -1328,7 +1333,7 @@ input, select, textarea {
 				}
 
 				.row > .col-8-narrower {
-					width: 66.66667%;
+					width: 40%;
 				}
 
 				.row > .off-8-narrower {
@@ -1573,7 +1578,7 @@ input, select, textarea {
 				}
 
 				.row > .col-8-mobile {
-					width: 66.66667%;
+					width: 40%;
 				}
 
 				.row > .off-8-mobile {
@@ -2037,9 +2042,10 @@ input, select, textarea {
 /* Featured Icons */
 
 	ul.featured-icons {
+		font-size: 28px;
+		font-weight: bold;
 		cursor: default;
 		margin: -0.75em 0 0 0;
-		opacity: 0.35;
 		overflow: hidden;
 		position: relative;
 		list-style: none;
@@ -2618,6 +2624,10 @@ input, select, textarea {
 
 	body.index #main {
 		padding-top: 5em;
+	}
+
+	.technologies{
+		font-size: 28px;
 	}
 
 /* CTA */
