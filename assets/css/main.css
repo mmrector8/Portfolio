@@ -1792,6 +1792,11 @@ input, select, textarea {
 		padding-top: 1em;
 	}
 
+	#first-call{
+		color: white;
+		padding-top: 10px;
+	}
+
 	#headshot{
 		border-radius: 50%;
 	}
@@ -1974,21 +1979,21 @@ input, select, textarea {
 				}
 
 			.icon.circle.fa-github {
-				background: #dcad8b;
+				background: #7490c3;
 				color: #fff;
 			}
 
 				.icon.circle.fa-github:hover {
-					background: #e1b89b;
+					background: #7490c3;
 				}
 
-			.icon.circle.fa-dribbble {
-				background: #da83ae;
+			.icon.circle.fa-linkedin {
+				background: rgb(1, 1, 183);
 				color: #fff;
 			}
 
-				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
+				.icon.circle.fa-linkedin:hover {
+					background: rgb(1, 1, 183);
 				}
 
 		.icon.featured {
