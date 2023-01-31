@@ -180,6 +180,9 @@ input, select, textarea {
 		font-weight: bold;
 		font-size: 34px;
 	}
+	.description {
+		padding-top: 20px;
+	}
 
 /* Container */
 
@@ -1786,7 +1789,11 @@ input, select, textarea {
 	}
 
 	footer.major {
-		padding-top: 3em;
+		padding-top: 1em;
+	}
+
+	#headshot{
+		border-radius: 50%;
 	}
 
 /* Form */
