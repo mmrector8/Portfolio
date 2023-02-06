@@ -5,6 +5,7 @@ Hi everyone! I am a former science teacher and marine scientist turned software 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmrector8&count_private=true&include_all_commits=true&show_icons=true&theme=dark%22/%3E">
 
+* **Portfolio**: https://morgan-rector.com//
 * **LinkedIn**: https://www.linkedin.com/in/morgan-marie-rector/
 
 I am most proud of one of my Full Stack Projects, **BayAreaTrails**, a clone of popular App AllTrails.
