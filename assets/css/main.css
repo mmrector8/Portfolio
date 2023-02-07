@@ -3298,14 +3298,25 @@ input, select, textarea {
 
 					#banner .inner header h2 {
 						font-size: 1.5em;
+						background-color: rgba(0, 0, 0, 0.3);
 					}
 
 					#banner .inner p {
 						text-align: center;
+						background-color: rgba(0, 0, 0, 0.3);
+					}
+
+					#banner .inner a {
+						display: flex;
+						align-items: center;
+						text-align: center;
+						justify-content: center;
+						background-color: rgba(0, 0, 0, 0.3);
 					}
 
 					#banner .inner br {
 						display: none;
+						background-color: rgba(0, 0, 0, 0.3);
 					}
 
 		/* Main */
