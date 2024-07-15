@@ -1,7 +1,7 @@
 # Morgan Rector - Software Engineer
 Pronouns: she/her/hers
 
-Hi everyone! I am a former science teacher and marine scientist turned software engineer! I am driven by a challenge and love that software engineering allows me to learn something new every day. I really enjoy working on a team and collaborating with other engineers - I believe you learn so much more when you get a slough of diverse ideas. I am also competitive, but mostly with myself - I try to challenge myself to always be better than I was yesterday. 
+Hi everyone! I am a former science teacher and marine scientist turned software engineer! I am driven by a challenge and love that software engineering allows me to learn something new every day and bring my ideas to life.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmrector8&count_private=true&include_all_commits=true&show_icons=true&theme=dark%22/%3E">
 
@@ -21,8 +21,6 @@ Check out the **live version here**: https://all-trails-clone.onrender.com/
 * From Tesla, I learned about the **power of technology and software** and the value of working on a **cohesive team that values each other's opinions**.
   
 * From working as a science teacher, I learned how to be **adaptable and pick up new skills quickly**. 
-  
- I am thrilled to be able to bring all of these experiences with me into the field of software engineering, and to be able to continue to develop these skills and gain more.
 
 ### Hobbies
 
