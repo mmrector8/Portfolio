@@ -1,16 +1,11 @@
 # Morgan Rector - Software Engineer
 Pronouns: she/her/hers
 
-Hi everyone! I am a former science teacher and marine scientist turned software engineer! I am driven by a challenge and love that software engineering allows me to learn something new every day and bring my ideas to life.
+Hi everyone!  I am an experienced Software Engineer proficient in React, TypeScript, Node.js, and Electron.js, specializing in web and desktop applications. I am skilled in managing the complexities of live data streaming, data visualization, REST API integration, and performance optimization. I am driven by a challenge and love that software engineering allows me to learn something new every day and bring my ideas to life.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmrector8&count_private=true&include_all_commits=true&show_icons=true&theme=dark%22/%3E">
 
-* **Portfolio**: http://morgan-rector.com/
 * **LinkedIn**: https://www.linkedin.com/in/morgan-marie-rector/
-
-I am most proud of one of my Full Stack Projects, **BayAreaTrails**, a clone of popular App AllTrails.
-
-Check out the **live version here**: https://all-trails-clone.onrender.com/
 
 ## Previous Careers and How They Help Me Be the Best Engineer I Can Be
 
